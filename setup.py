@@ -7,6 +7,6 @@ setup(
     url='https://github.com/mpalaciosu/DRFTrabajo',
     author='Martin Palacios',
     author_email='martinpalaciosu@gmail.com',
-    packages=find_packages(),
+    packages=['DRFTrabajo'],
     python_requires='>=3.8',
 )
