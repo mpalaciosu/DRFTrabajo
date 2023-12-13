@@ -1,9 +1,10 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
-    name="DRFTrabajo",
-    version="0.1",
-    description="Proyecto DRFTrabajo",
-    packages=["DRFTrabajo"],
-    python_requires=">=3.7",
+    name='DRFTrabajo',
+    version='0.1',
+    packages=find_packages(),
+    install_requires=[
+        # List any dependencies your project has
+    ],
 )
