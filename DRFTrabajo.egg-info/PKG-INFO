@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: DRFTrabajo
+Version: 0.0.1
+Summary: Repositorio para el trabajo de DRF
+Home-page: https://github.com/mpalaciosu/DRFTrabajo
+Author: Martin Palacios
+Author-email: martinpalaciosu@gmail.com
+Requires-Python: >=3.8

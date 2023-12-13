@@ -1,0 +1,5 @@
+setup.py
+DRFTrabajo.egg-info/PKG-INFO
+DRFTrabajo.egg-info/SOURCES.txt
+DRFTrabajo.egg-info/dependency_links.txt
+DRFTrabajo.egg-info/top_level.txt
