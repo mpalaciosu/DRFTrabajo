@@ -50,6 +50,6 @@ def get_ufs(last_uf_known_date : date, last_uf_value : float, new_ipc : float) -
     
     uf_hoy = round(aux, 2)
 
-    return {'date':fecha_hoy,'value': uf_hoy}
+    return {fecha_hoy : uf_hoy}
 
 
