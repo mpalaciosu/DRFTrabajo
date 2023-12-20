@@ -57,7 +57,7 @@ class CLBond:
     def ContarDias(self, start, end):
         return (360 * (end.year - start.year) + 30 * (end.month - start.month) + (end.day - start.day))
 
-    def dv01(self, notional, tasa, fecha):
+    def get_dv01(self, notional, tasa, fecha):
         tasa2 = tasa + 0.001 / 100
         Aux = self.get_value(notional, tasa, fecha)
         Aux2 = self.get_value(notional, tasa2, fecha)
