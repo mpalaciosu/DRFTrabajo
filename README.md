@@ -14,9 +14,13 @@ Al haber hecho esto ya se puede usar la funcion get_ufs()
 Saludos!
 
 Integrantes:
+
 Matias Galindo
+
 Martin Palacios
+
 Martin Gejman
+
 Jimmy Guaya
 
 
